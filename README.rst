@@ -20,8 +20,8 @@ Dependencies
 ------------
 
 Both the Python :snake: and shell script uses ``qpdf``.  The Python
-script additionally uses the Python bindings for ``pikepdf``, and the
-shell script depends on ``LaTeX`` to generate blank pages for padding.
+script additionally uses the Python binding ``pikepdf``, and the shell
+script depends on ``LaTeX`` to generate blank pages for padding.
 
 If you are using the shell script version, there is a ``Makefile``
 that you can use to generate the blank page conveniently.  You can
@@ -50,6 +50,6 @@ does the same, but requires a bit of fiddling.  It also relies on
 LaTeX to insert blank pages where needed.
 
 *The image is licensend under the Creative Commons Attribution-Share
- Alike license, thanks to* `Wikimedia Commons`_.
+Alike license, thanks to* `Wikimedia Commons`_.
 
 .. _Wikimedia Commons: https://commons.wikimedia.org/wiki/File:6sided_dice.jpg
